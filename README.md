@@ -1,1 +1,1 @@
-https://teachermachine.github.io/rsschool-cv/cv
+https://teachermachine.github.io/rsschool-cv/
