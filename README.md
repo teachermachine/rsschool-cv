@@ -1,1 +1,1 @@
-# rsschool-cv
+https://teachermachine.github.io/rsschool-cv/cv
